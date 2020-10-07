@@ -1,0 +1,22 @@
+{
+  "name": "graduation_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microkotik/graduation_project.git"
+  },
+  "author": "microkotik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microkotik/graduation_project/issues"
+  },
+  "homepage": "https://github.com/microkotik/graduation_project#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
